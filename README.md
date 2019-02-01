@@ -1,3 +1,31 @@
+
+### Coin Specs
+<table>
+<tr><td>Algo</td><td>Quark</td></tr>
+<tr><td>Block Time</td><td>60 Seconds</td></tr>
+<tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
+<tr><td>Max Coin Supply </td><td>80 000 000 AP1</td></tr>
+</table>
+
+
+### PoS Rewards Breakdown
+
+<table>
+<th>Phase</th><th>Block Height</th><th>Reward</th><th>Masternodes & Stakers</th><th>Budget</th>
+<tr><td>Phase 0</td><td>1-265000</td><td>41 AP1</td><td>80% (32.8 AP1)</td><td>10% (8.2 AP1)</td></tr>
+<tr><td>Phase 1</td><td>265001-526000</td><td>31 AP1</td><td>80% </td></tr>
+<tr><td>Phase 2</td><td>526001-790000</td><td>24 AP1</td><td>80% </td></tr>
+<tr><td>Phase 3</td><td>790001-1055000</td><td>19 AP1</td><td>80% </td></tr>
+<tr><td>Phase 4</td><td>1055001-1317800</td><td>14.5 AP1</td><td>80% </td></tr>
+<tr><td>Phase 5</td><td>1317801-1580600</td><td>11.5 AP1</td><td>80% </td></tr>
+<tr><td>Phase 6</td><td>1580601-1843400</td><td>7.5 AP1</td><td>80% </td></tr>
+<tr><td>Phase 7</td><td>1843401-2102400</td><td>5.5 AP1</td><td>80% </td></tr>
+<tr><td>Phase 8</td><td>2102401-2365000</td><td>3.5 AP1</td><td>80% </td></tr>
+<tr><td>Phase 9</td><td>2365001-2627800</td><td>2 AP1</td><td>80% </td></tr>
+</table>
+
+
+
 #SETUP A MASTERNODE 
 
 #Go to “Tools”. 
@@ -149,3 +177,6 @@ Start your masternode using the command.
 startmasternode alias false MN1
 
 It will take +/- 30 minutes to activate your masternode.
+
+
+
