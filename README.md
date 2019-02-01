@@ -10,7 +10,7 @@ masternode genkey
 
 Example output
 
-75eqvNfaEfkd3YTwQ3hMwyxL2BgNSrqHDgWc6jbUh4Gdtnro2Wo
+6eqvNfaEfkd3YTwQ3hMwyxL2BgNSrqHDgWc6jbUh4Gdtnro2Wo
 
 Show your collateral address.
 
