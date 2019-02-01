@@ -43,13 +43,11 @@ sudo apt-get update
 sudo apt-get install libdb4.8-dev libdb4.8++-dev
 
 
-wget "https://github.com/1apdeveloper/mn-pos-Coin-APHolding/blob/master/apholdingd" -O apholding-linux.tar.gz
-wget " -O apholding-qt-linux.tar.gz
+wget "https://github.com/1apdeveloper/mn-pos-Coin-APHolding/blob/master/apholdingd" 
+wget "https://github.com/1apdeveloper/mn-pos-Coin-APHolding/blob/master/apholding-cli" 
+wget "https://github.com/1apdeveloper/mn-pos-Coin-APHolding/blob/master/apholding-tx" 
+wget "https://github.com/1apdeveloper/mn-pos-Coin-APHolding/blob/master/apholding-qt" 
 
-Extract the tar files.
-
-tar -xzvf apholdingd.tar.gz
-tar -xzvf apholding-qt.tar.gz
 
 Install the daemon and tools.
 
