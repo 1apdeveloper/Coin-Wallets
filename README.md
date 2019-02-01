@@ -18,7 +18,7 @@ getaccountaddress "MN1"
 
 Example output
 
-Nad4xtgdwf7c5y45ruy5MWtVY43zYMCvva
+Had4xtgdwf7c5y45ruy5MWtVY43zYMCvva
 
 Keep note of the masternode private key and the collateral address.
 
@@ -44,10 +44,10 @@ sudo apt-get install libdb4.8-dev libdb4.8++-dev
 
 
 wget "https://github.com/1apdeveloper/mn-pos-Coin-APHolding/blob/master/apholdingd" 
-wget "https://github.com/1apdeveloper/mn-pos-Coin-APHolding/blob/master/apholding-cli" 
-wget "https://github.com/1apdeveloper/mn-pos-Coin-APHolding/blob/master/apholding-tx" 
-wget "https://github.com/1apdeveloper/mn-pos-Coin-APHolding/blob/master/apholding-qt" 
 
+wget "https://github.com/1apdeveloper/mn-pos-Coin-APHolding/blob/master/apholding-cli" 
+
+wget "https://github.com/1apdeveloper/mn-pos-Coin-APHolding/blob/master/apholding-tx" 
 
 Install the daemon and tools.
 
