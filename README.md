@@ -1,7 +1,9 @@
 #SETUP A MASTERNODE 
 
 #Go to “Tools”. 
-#Click “Debug console”. 
+
+#Click “Debug console”.  
+
 #This is the console where you will execute all commands.
 
 #Create a masternode private key.
@@ -16,7 +18,7 @@
 
 #   getaccountaddress "MN1"
 
-Example output
+//Example output
 
 Had4xtgdwf7c5y45ruy5MWtVY43zYMCvva
 
