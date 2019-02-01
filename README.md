@@ -11,7 +11,7 @@
 
 <table>
 <th>Phase</th><th>Block Height</th><th>Reward</th><th>Masternodes</th><th>Staking Budget</th>
-<tr><td>Phase 0</td><td>1-265000</td><td>41 AP1</td><td>80% (32.8 AP1)</td><td>10% (8.2 AP1)</td></tr>
+<tr><td>Phase 0</td><td>1-265000</td><td>41 AP1</td><td>80% (32.8 AP1)</td><td>20% (8.2 AP1)</td></tr>
 <tr><td>Phase 1</td><td>265001-526000</td><td>31 AP1</td><td>80% </td><td>20% </td></tr>
 <tr><td>Phase 2</td><td>526001-790000</td><td>24 AP1</td><td>80% </td><td>20% </td></tr>
 <tr><td>Phase 3</td><td>790001-1055000</td><td>19 AP1</td><td>80% </td><td>20%</td></tr>
