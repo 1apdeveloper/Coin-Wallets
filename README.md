@@ -1,20 +1,20 @@
-SETUP A MASTERNODE 
+#SETUP A MASTERNODE 
 
-Go to “Tools”. 
-Click “Debug console”. 
-This is the console where you will execute all commands.
+#Go to “Tools”. 
+#Click “Debug console”. 
+#This is the console where you will execute all commands.
 
-Create a masternode private key.
+#Create a masternode private key.
 
-masternode genkey
+#   masternode genkey
 
-Example output
+#Example output
 
-6eqvNfaEfkd3YTwQ3hMwyxL2BgNSrqHDgWc6jbUh4Gdtnro2Wo
+#   6eqvNfaEfkd3YTwQ3hMwyxL2BgNSrqHDgWc6jbUh4Gdtnro2Wo
 
-Show your collateral address.
+#Show your collateral address.
 
-getaccountaddress "MN1"
+#   getaccountaddress "MN1"
 
 Example output
 
@@ -34,6 +34,7 @@ sudo apt-get upgrade
 Install the required dependencies.
 
 sudo apt-get install build-essential libtool autotools-dev automake pkg-config libssl-dev libevent-dev bsdmainutils python3 libboost-system-dev libboost-filesystem-dev libboost-chrono-dev libboost-test-dev libboost-thread-dev libboost-all-dev libboost-program-options-dev
+
 sudo apt-get install libminiupnpc-dev libzmq3-dev libprotobuf-dev protobuf-compiler unzip software-properties-common
 
 Install Berkeley DB.
