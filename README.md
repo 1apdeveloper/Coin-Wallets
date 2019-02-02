@@ -30,7 +30,7 @@
 ### PoS Rewards Breakdown
 
 <table>
-<th>Phase 1</th><th>Block Height</th><th>Reward</th><th>Masternodes</th><th>Staking Budget</th>
+<th>Phase 1</th>
 <tr><td>Go to "TOOLS"</td></tr>
 <tr><td>Click "DEBUG CONSOLE"</td></tr>
 <tr><td>Phase 2</td><td>526001-790000</td><td>24 AP1</td><td>80% </td><td>20% </td></tr>
