@@ -6,6 +6,11 @@
 <tr><td>Max Coin Supply </td><td>80 000 000 AP1</td></tr>
 </table>
 
+#addnode=199.247.30.28
+#addnode=95.179.183.141
+#addnode=95.179.158.47
+#addnode= 209.250.255.236
+#addnode= 209.250.249.3
 
 ### PoS Rewards Breakdown
 
