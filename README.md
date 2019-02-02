@@ -7,6 +7,7 @@
 </table>
 
 ### addnodes
+
 <table>
 <tr><td>addnodes</td></tr>
 <tr><td>addnode=199.247.30.28</td></tr>
@@ -33,10 +34,8 @@
 </table>
 
 
-#SETUP A MASTERNODE 
+### SETUP A MASTERNODE 
 
-
-### PoS Rewards Breakdown
 
 <table>
 <th>Phase 1</th>
@@ -52,9 +51,7 @@
 <tr><td>Phase 9</td><td>2365001-2627800</td><td>2 AP1</td><td>80% </td><td>20%</td></tr>
 </table>
 
-#Go to “Tools”. 
 
-#Click “Debug console”.  
 
 #This is the console where you will execute all commands.
 
