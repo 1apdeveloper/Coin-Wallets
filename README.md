@@ -46,9 +46,6 @@
 <tr><td>#Show your collateral address.</td><td>getaccountaddress "MN1"</td></tr>
 <tr><td>#Example output</td><td>Had4xtgdwf7c5y45ruy5MWtVY43zYMCvva</td></tr>
 <tr><td>Keep note of the masternode private key and the collateral address.</td></tr>
-<tr><td>Phase 7</td><td>1843401-2102400</td><td>5.5 AP1</td><td>80% </td><td>20%</td></tr>
-<tr><td>Phase 8</td><td>2102401-2365000</td><td>3.5 AP1</td><td>80% </td><td>20%</td></tr>
-<tr><td>Phase 9</td><td>2365001-2627800</td><td>2 AP1</td><td>80% </td><td>20%</td></tr>
 </table>
 
 
