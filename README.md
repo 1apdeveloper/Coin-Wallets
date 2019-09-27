@@ -10,8 +10,6 @@
 
 <table>
 <tr><td>addnodes</td></tr>
-<tr><td>addnode=</td></tr>
-<tr><td>addnode=167.71.45.25</td></tr>
 <tr><td>addnode=68.183.11.226</td></tr>
 <tr><td>addnode=159.65.190.153</td></tr>
 <tr><td>addnode=134.209.109.41</td></tr>
