@@ -1,3 +1,6 @@
+chain Link: 
+https://www.dropbox.com/s/oq55yhq6i69byh7/apholding-chain.zip
+
 
 ### Coin Specs
 <table>
@@ -10,11 +13,9 @@
 
 <table>
 <tr><td>addnodes</td></tr>
-<tr><td>addnode=199.247.30.28</td></tr>
-<tr><td>addnode=95.179.183.141</td></tr>
-<tr><td>addnode=95.179.158.47</td></tr>
-<tr><td>addnode=209.250.255.236</td></tr>
-<tr><td>addnode=209.250.249.3</td></tr>
+<tr><td>addnode=68.183.11.226</td></tr>
+<tr><td>addnode=159.65.190.153</td></tr>
+<tr><td>addnode=134.209.109.41</td></tr>
 </table>
 
 ### PoS Rewards Breakdown
@@ -22,15 +23,13 @@
 <table>
 <th>Phase</th><th>Block Height</th><th>Reward</th><th>Masternodes</th><th>Staking Budget</th>
 <tr><td>Phase 0</td><td>1-265000</td><td>41 AP1</td><td>80% (32.8 AP1)</td><td>20% (8.2 AP1)</td></tr>
-<tr><td>Phase 1</td><td>265001-526000</td><td>31 AP1</td><td>80% </td><td>20% </td></tr>
-<tr><td>Phase 2</td><td>526001-790000</td><td>24 AP1</td><td>80% </td><td>20% </td></tr>
-<tr><td>Phase 3</td><td>790001-1055000</td><td>19 AP1</td><td>80% </td><td>20%</td></tr>
-<tr><td>Phase 4</td><td>1055001-1317800</td><td>14.5 AP1</td><td>80% </td><td>20%</td></tr>
-<tr><td>Phase 5</td><td>1317801-1580600</td><td>11.5 AP1</td><td>80% </td><td>20%</td></tr>
-<tr><td>Phase 6</td><td>1580601-1843400</td><td>7.5 AP1</td><td>80% </td><td>20%</td></tr>
-<tr><td>Phase 7</td><td>1843401-2102400</td><td>5.5 AP1</td><td>80% </td><td>20%</td></tr>
-<tr><td>Phase 8</td><td>2102401-2365000</td><td>3.5 AP1</td><td>80% </td><td>20%</td></tr>
-<tr><td>Phase 9</td><td>2365001-2627800</td><td>2 AP1</td><td>80% </td><td>20%</td></tr>
+<tr><td>Phase 1</td><td>265001-42000</td><td>31 AP1</td><td>80% </td><td>20% </td></tr>
+<tr><td>Phase 2</td><td>420001-1300000</td><td>21 AP1</td><td>80% </td><td>20% </td></tr>
+<tr><td>Phase 3</td><td>1300001-2400000</td><td>16 AP1</td><td>80% </td><td>20%</td></tr>
+<tr><td>Phase 4</td><td>2400001-3200000</td><td>10 AP1</td><td>80% </td><td>20%</td></tr>
+<tr><td>Phase 5</td><td>3200001-4500000</td><td>6 AP1</td><td>80% </td><td>20%</td></tr>
+<tr><td>Phase 6</td><td>4500001-9000000</td><td>2 AP1</td><td>80% </td><td>20%</td></tr>
+<tr><td>Phase 7</td><td>9000001- </td><td>0.1 AP1</td><td>80% </td><td>20%</td></tr>
 </table>
 
 
